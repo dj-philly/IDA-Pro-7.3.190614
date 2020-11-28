@@ -2,4 +2,13 @@
 
 IDA Pro 7.3.190614
 
-https://bayfiles.com/F8T4i0Iaod/IDA_Pro_7.3.190614_zip
+old   https://bayfiles.com/F8T4i0Iaod/IDA_Pro_7.3.190614_zip
+
+new  https://mega.nz/file/h4ZH3awb#ayuGFH51AIYx9dbe103eD3j_8jG3DVB96R2C_AvXx4o
+
+
+
+На версии 3.8.5 могут возникнуть синтаксические ошибки в файлах \procs\*py, вызванные портированием на py3.
+Вы можете исправить их вручную или заменить этими файлами.
+
+https://mega.nz/file/mygVAS5Z#QWTGJW4ZBSiXYPe_P4VoHmv2t_eE7qlR0nwjehW84CA
